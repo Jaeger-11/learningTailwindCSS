@@ -1,0 +1,15 @@
+{
+  "name": "manage-landing-page-master",
+  "version": "1.0.0",
+  "description": "Landing page using HTML & Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "author": "Oluwadamilola Falodun",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
