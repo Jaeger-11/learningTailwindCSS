@@ -896,6 +896,11 @@ p{
   font-size: 15px;
 }
 
+.hover\:bg-Verydarkblue:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(240 100% 5% / var(--tw-bg-opacity));
+}
+
 .hover\:text-Softred:hover {
   --tw-text-opacity: 1;
   color: hsl(5 85% 63% / var(--tw-text-opacity));
