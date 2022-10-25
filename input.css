@@ -5,3 +5,11 @@
 p{
     font-size: 15px;
 }
+
+.close1{
+    transform: rotate(45deg) translateY(6px) translate(6px);
+}
+
+.close2{
+    transform: rotate(-45deg) translateY(6px) translate(-6px);
+}
